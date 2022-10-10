@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Mern And Blockchain Projects**
 
-- 💬 Ask me about **React , Node , Blockchain**
+- 💬 Ask me about **React , Node , Blockchain, Solidity**
 
 - 📫 How to reach me **mraza6601@gmail.com**
 
