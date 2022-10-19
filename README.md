@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mraza143&label=Profile%20views&color=0e75b6&style=flat" alt="mraza143" /> </p>
 
-- 🔭 I’m currently working on [Auction.sol](https://github.com/Mraza143/Auction.sol)
+- 🔭 I’m currently working on [Nft Auction](https://github.com/Mraza143/Nft-Auction-Frontend)
 
 - 👯 I’m looking to collaborate on **Mern And Blockchain Projects**
 
