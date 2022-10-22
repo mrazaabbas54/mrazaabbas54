@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React , Node , Blockchain, Solidity**
 
-- 📫 How to reach me **mraza6601@gmail.com**
+- 📫 Can reach me on **mraza6601@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
