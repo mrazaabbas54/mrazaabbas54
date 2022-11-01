@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Nft Auction](https://github.com/Mraza143/Nft-Auction-Frontend)
 
-- 👯 I’m looking to collaborate on **Mern And Blockchain Projects**
+- 👯 I’m looking to collaborate on **Blockchain Projects**
 
 - 💬 Ask me about **React , Node , Blockchain, Solidity**
 
