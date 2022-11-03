@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Blockchain Projects**
 
-- 💬 Ask me about **React , EVM, Blockchain, Solidity**
+- 💬 Ask me about **React , EVM, Blockchain, Solidity , ZK-snark**
 
 - 📫 Can reach me on **mraza6601@gmail.com**
 
