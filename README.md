@@ -10,7 +10,7 @@
 
 ## 🔗 Connect with me
 <p align="left">
-<a href="https://www.linkedin.com/in/mraza143">
+<a href="https://www.linkedin.com/in/mrazaabbas">
   <img align="left" alt="Raza's LinkdeIn" width="24px" src="https://cdn.simpleicons.org/linkedin/C2C2C4" />
 </a>
 <a href="https://x.com/muhammadRaza109">
@@ -36,20 +36,20 @@
 <p align="center">
 <a href="https://github.com/Mraza143">
 
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mraza143&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mrazaabbas54&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mraza143&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mrazaabbas54&layout=compact&langs_count=8&theme=radical"/>
 </a>
 </p>
 
 <p align="center">
-<a href="https://github.com/Mraza143">
+<a href="https://github.com/mrazaabbas54">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Mraza143&theme=radical&hide_border=false"/>
 </a>
 </p>
 
 <p align="center">
-<a href="https://github.com/Mraza143">
+<a href="https://github.com/mrazaabbas54">
   <img height="180em" src="https://leetcard.jacoblin.cool/mraza6601?theme=dark"/>
 </a>
 </p>
