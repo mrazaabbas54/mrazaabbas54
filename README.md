@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **Backend / Nest Projects**
 - 🌱 I’m currently learning **Backend Architecture / Design Patterns**
 - 👯 I’m looking to collaborate on **MERN Projects**
-- 💬 Ask me about **Backend Architecture,Smart Contract Security, Blockchain**
+- 💬 Ask me about **Backend Architecture, Smart Contract Security, Blockchain**
 - 📫 How to reach me **mraza6601@gmail.com**
 - ⚡ Fun fact **Composition Over Inheritance**
 
